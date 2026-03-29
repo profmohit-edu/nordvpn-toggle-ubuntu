@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19318224.svg)](https://doi.org/10.5281/zenodo.19318224)
+![Ubuntu](https://img.shields.io/badge/Platform-Ubuntu-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Stable-success)
+
 # NordVPN Toggle for Ubuntu
 
 A lightweight GUI and CLI utility to enable or disable system-wide NordVPN on Ubuntu.
